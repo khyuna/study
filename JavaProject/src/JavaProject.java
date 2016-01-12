@@ -97,6 +97,7 @@ class MyFrame extends JFrame {
 
 		/**
 		 * 각각의 이벤트 처리를 하는 메소드
+		 * aaaa
 		 * @param e
 		 */
 		@Override
